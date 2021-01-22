@@ -20,7 +20,7 @@
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     ||
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | https://monsieur-jonas.github.io/Platformer/ |
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/platformer/ |
-| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     ||
+| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | https://maxime-balansard.github.io/platformer/
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   ||
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   ||
 | ...       | ...         |   ... |
